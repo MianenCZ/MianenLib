@@ -3,7 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29911.84
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MianenLib", "MianenLib\MianenLib.csproj", "{05067F94-612B-4348-BA13-410D274FC08E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MianenLib", "MianenLib\MianenLib.csproj", "{05067F94-612B-4348-BA13-410D274FC08E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{04892FB1-C401-4909-87CE-D2E5DAF4A95C}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+		TODO.md = TODO.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
